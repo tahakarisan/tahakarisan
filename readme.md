@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha Ömer</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate Fullstack developer from Turkey</h3>
 
 - 🌱 I’m currently learning **.NetCore,ASP.Net,MVC**
 
