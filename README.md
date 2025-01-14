@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha Ömer</h1>
-![](https://komarev.com/ghpvc/?username=tahakarisan&color=green)
+![Profil views](https://komarev.com/ghpvc/?username=tahakarisan&color=green)
 <h3 align="center">A passionate developer from Turkey</h3>
 
 
