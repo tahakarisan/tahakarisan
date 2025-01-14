@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Taha Ömer</h1>
-![Profil views](https://komarev.com/ghpvc/?username=tahakarisan&color=green)
 <h3 align="center">A passionate developer from Turkey</h3>
 
 
@@ -8,6 +7,8 @@
 - 💬 Ask me about **Backend techs**
 
 - 📫 How to reach me **tahakarisan37@gmail.com**
+
+![Profil Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=tahakarisan&color=green)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
