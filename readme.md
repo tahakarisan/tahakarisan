@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taha Ömer</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
+![Profil Görüntüleme Sayacı](https://komarev.com/ghpvc/?username=tahakarisan&color=blue)
 
 - 🌱 I’m currently learning **.NetCore,ASP.Net,MVC**
 
