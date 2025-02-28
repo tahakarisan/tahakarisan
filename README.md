@@ -23,7 +23,7 @@
     <img src="https://github.com/tahakarisan/tahakarisan/blob/main/cpp.png" alt="C++" width="40" height="40">
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tahakarisan/tahakarisan/blob/main/githubc#.png" alt="C#" width="50" height="50>
+    <img src="https://github.com/tahakarisan/tahakarisan/blob/main/githubc%23.png" alt="C#" width="50" height="50>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tahakarisan/tahakarisan/blob/main/html.png" alt="HTML5" width="50" height="50>
