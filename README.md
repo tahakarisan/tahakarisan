@@ -24,7 +24,7 @@
     <img src="https://github.com/tahakarisan/tahakarisan/blob/main/githubc%23.png" alt="C#" width="50" height="50">
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tahakarisan/tahakarisan/blob/main/html1.png" alt="HTML5" width="50" height="50">
+    <img src="https://github.com/tahakarisan/tahakarisan/blob/main/html-5.png" alt="HTML5" width="50" height="50">
   </a>
   <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tahakarisan/tahakarisan/blob/main/css.png" alt="CSS" width="50" height="50">
@@ -33,7 +33,7 @@
     <img src="https://github.com/tahakarisan/tahakarisan/blob/main/mongo.png" alt="MongoDB" width="50" height="50">
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://github.com/tahakarisan/tahakarisan/blob/main/sqlserver.png" alt="MSSQL" width="50" height="50">
+    <img src="https://github.com/tahakarisan/tahakarisan/blob/main/ms-sql.png" alt="MSSQL" width="50" height="50">
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/tahakarisan/tahakarisan/blob/main/Untitled (1).png" alt="Postman" width="50" height="50">
