@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/e358240c-39fe-4fb8-95a8-acc29a5ccfb2)<h1 align="center">Hi 👋, I'm Taha Ömer</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+<h1 align="left">Hi 👋, I'm Taha Ömer</h1>
+<h3 align="left">A passionate developer from Turkey</h3>
 
 - 🌱 I’m currently learning **.NetCore,ASP.Net,MVC**
 
@@ -10,8 +10,6 @@
 ![Profil Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=tahakarisan&color=red)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <button href="https://git-scm.com/" target="_blank" rel="noreferrer" class="icon-button">
