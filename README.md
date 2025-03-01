@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <button href="https://git-scm.com/" target="_blank" rel="noreferrer" class="icon-button">
-         <img src="https://github.com/tahakarisan/tahakarisan/blob/main/Untitled.png" alt="Angular" width="50" height="50">
+         <img src="https://github.com/tahakarisan/tahakarisan/blob/main/angularz.png" alt="Angular" width="50" height="50">
   </button>
   <button href="https://git-scm.com/" target="_blank" rel="noreferrer" class="icon-button">
     <img src="https://github.com/tahakarisan/tahakarisan/blob/main/cpp.png" alt="C++" width="50" height="50">
