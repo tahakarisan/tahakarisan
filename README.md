@@ -9,7 +9,15 @@
 
 ![Profil Ziyaretçi Sayacı](https://komarev.com/ghpvc/?username=tahakarisan&color=red)
 
+## 📊 Most Used Languages  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahakarisan&layout=compact&theme=dark)
+
+
 <h3 align="left">Connect with me:</h3>
+
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tahakarisan)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29828801/tahakarisan)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <button href="https://git-scm.com/" target="_blank" rel="noreferrer" class="icon-button">
